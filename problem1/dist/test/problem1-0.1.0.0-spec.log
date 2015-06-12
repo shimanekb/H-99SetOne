@@ -1,0 +1,10 @@
+Test suite spec: RUNNING...
+
+HaskellNinetyNine.Problem1
+  Returns last of list
+    Returns last from list
+
+Finished in 0.0005 seconds
+1 example, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem1-0.1.0.0-spec.log

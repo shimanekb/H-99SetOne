@@ -1,2 +1,4 @@
+import HaskellNinetyNine.Problem1
+
 main = do
-         putStrLn "Nothing yet"
+         putStrLn (show (myLast ['a', 'b', 'c']))
