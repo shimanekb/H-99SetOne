@@ -1,0 +1,12 @@
+Test suite spec: RUNNING...
+
+HaskellNinetyNine.Problem2
+  HaskellNinetyNine module Tests
+    Return one element from last
+    Return just the one element
+    myButLast should return nothing
+
+Finished in 0.0007 seconds
+3 examples, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem2-0.1.0.0-spec.log
