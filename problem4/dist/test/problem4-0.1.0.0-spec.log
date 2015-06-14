@@ -1,0 +1,11 @@
+Test suite spec: RUNNING...
+
+H99.Problem4
+  Tests for H99.Problem4 module
+    Should return length of list
+    Should return 0 for an empty list
+
+Finished in 0.0005 seconds
+2 examples, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem4-0.1.0.0-spec.log
