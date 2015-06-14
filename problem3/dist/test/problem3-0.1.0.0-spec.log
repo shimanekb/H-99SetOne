@@ -1,0 +1,11 @@
+Test suite spec: RUNNING...
+
+HaskellNinetyNine.Problem3
+  Tests for Problem3 module
+    Should return element at specified index
+    Should return error if list is none existent
+
+Finished in 0.0001 seconds
+2 examples, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem3-0.1.0.0-spec.log
