@@ -1,0 +1,12 @@
+Test suite spec: RUNNING...
+
+H99.Problem6
+  Tests for module H99.Problem6
+    Should return true
+    Should return false
+    Should return false when empty
+
+Finished in 0.0005 seconds
+3 examples, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem6-0.1.0.0-spec.log
