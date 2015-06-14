@@ -1,0 +1,11 @@
+Test suite spec: RUNNING...
+
+H99.Problem5
+  Tests for the H99.Problem5 module
+    Should reverse list
+    Should return empty List when list is empty
+
+Finished in 0.0005 seconds
+2 examples, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem5-0.1.0.0-spec.log
