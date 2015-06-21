@@ -1,0 +1,10 @@
+Test suite spec: RUNNING...
+
+H99.Problem7
+  Test suite for module H99.Problem7
+    Should flatten list
+
+Finished in 0.0001 seconds
+1 example, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem7-0.1.0.0-spec.log

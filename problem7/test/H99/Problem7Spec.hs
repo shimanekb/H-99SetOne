@@ -9,4 +9,4 @@ main = hspec spec
 spec = do
         describe "Test suite for module H99.Problem7" $do
           it "Should flatten list" $do
-           (myFlatten List [Elem 1, Elem 2, List [Elem 3]]) `shouldBe` [1,2,3] 
+           (customFlatten (List [Elem 1, Elem 2, Elem 3])) `shouldBe` [1,2,3] 
