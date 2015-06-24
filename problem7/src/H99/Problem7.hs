@@ -2,7 +2,7 @@ module H99.Problem7
 (customFlatten, NestedList(Elem, List), getElem) where
 
 data NestedList a = Elem a | List [NestedList a]
-                    deriving (Show)
+                    deriving (Show, Read)
 
 customFlatten :: Eq a => NestedList a -> [a]
 customFlatten (List []) = []
