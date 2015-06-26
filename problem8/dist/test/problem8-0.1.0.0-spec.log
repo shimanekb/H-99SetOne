@@ -1,0 +1,21 @@
+Test suite spec: RUNNING...
+
+H99.Problem8
+  Test the Problem8 Module
+    Should remove duplicates from a list FAILED [1]
+
+Failures:
+
+  test/H99/Problem8Spec.hs:12: (best-effort)
+  1) H99.Problem8, Test the Problem8 Module, Should remove duplicates from a list
+       expected: "abc"
+        but got: "aabbcc"
+
+Source locations marked with "best-effort" are calculated heuristically and may be incorrect.
+
+Randomized with seed 929169968
+
+Finished in 0.0010 seconds
+1 example, 1 failure
+Test suite spec: FAIL
+Test suite logged to: dist/test/problem8-0.1.0.0-spec.log
