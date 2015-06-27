@@ -1,2 +1,6 @@
+import H99.Problem8
+
 main = do
-        putStrLn "Hello"
+        putStrLn "Enter a string"
+        inputString <- getLine
+        putStrLn (compress inputString)
