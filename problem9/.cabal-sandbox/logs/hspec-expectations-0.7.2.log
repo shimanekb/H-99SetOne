@@ -6,7 +6,7 @@ Preprocessing library hspec-expectations-0.7.2...
 [3 of 3] Compiling Test.Hspec.Expectations ( src/Test/Hspec/Expectations.hs, dist/dist-sandbox-abf71337/build/Test/Hspec/Expectations.o )
 In-place registering hspec-expectations-0.7.2...
 Creating package registration file:
-/tmp/pkgConf-hspec-expectations-0.75726603361159126505.2
+/tmp/pkgConf-hspec-expectations-0.74127760911424268980.2
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hspec-expectations-0.7.2-19YQSHkZ0r2ED4k4Dnbroh
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/hspec-expectations-0.7.2-HIMQjdId9c8AmhaOneahu7
 Registering hspec-expectations-0.7.2...

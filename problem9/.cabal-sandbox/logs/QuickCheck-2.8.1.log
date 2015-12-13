@@ -21,7 +21,7 @@ Test/QuickCheck/Arbitrary.hs:6:37: Warning:
 [15 of 15] Compiling Test.QuickCheck  ( Test/QuickCheck.hs, dist/dist-sandbox-abf71337/build/Test/QuickCheck.o )
 In-place registering QuickCheck-2.8.1...
 Creating package registration file:
-/tmp/pkgConf-QuickCheck-2.814115496761843993368.1
+/tmp/pkgConf-QuickCheck-2.81477171087356426808.1
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/QuickCheck-2.8.1-8UnGnTXfSEEClQczG6tI7s
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/QuickCheck-2.8.1-BnZKeqxVf7FCbnejbqAnPL
 Registering QuickCheck-2.8.1...

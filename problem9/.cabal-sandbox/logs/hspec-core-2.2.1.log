@@ -20,7 +20,7 @@ Preprocessing library hspec-core-2.2.1...
 [17 of 17] Compiling Test.Hspec.Core.QuickCheck ( src/Test/Hspec/Core/QuickCheck.hs, dist/dist-sandbox-abf71337/build/Test/Hspec/Core/QuickCheck.o )
 In-place registering hspec-core-2.2.1...
 Creating package registration file:
-/tmp/pkgConf-hspec-core-2.21330573317603570492.1
+/tmp/pkgConf-hspec-core-2.28556362261749698586.1
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hspec-core-2.2.1-Aosb6MM0Qaj6wjYGIK1C0l
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/hspec-core-2.2.1-71WpYX1Z3a1LN0fqv8zFp9
 Registering hspec-core-2.2.1...

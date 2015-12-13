@@ -8,9 +8,9 @@ Preprocessing executable 'hspec-discover' for hspec-discover-2.2.1...
 [3 of 3] Compiling Main             ( src/Main.hs, dist/dist-sandbox-abf71337/build/hspec-discover/hspec-discover-tmp/Main.o )
 Linking dist/dist-sandbox-abf71337/build/hspec-discover/hspec-discover ...
 Creating package registration file:
-/tmp/pkgConf-hspec-discover-2.210599613932089018456.1
+/tmp/pkgConf-hspec-discover-2.2336465782861021530.1
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hspec-discover-2.2.1-3UQ02fZig2u157ESm8Af4u
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/hspec-discover-2.2.1-Eq5EtuvZiXD7ajIelxoLT0
 Installing executable(s) in
 /home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/bin
 Registering hspec-discover-2.2.1...

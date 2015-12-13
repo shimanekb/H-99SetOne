@@ -12,7 +12,7 @@ Preprocessing library stm-2.4.4...
 [ 9 of 10] Compiling Control.Concurrent.STM ( Control/Concurrent/STM.hs, dist/dist-sandbox-abf71337/build/Control/Concurrent/STM.o )
 [10 of 10] Compiling Control.Concurrent.STM.TSem ( Control/Concurrent/STM/TSem.hs, dist/dist-sandbox-abf71337/build/Control/Concurrent/STM/TSem.o )
 In-place registering stm-2.4.4...
-Creating package registration file: /tmp/pkgConf-stm-2.48057508461632621729.4
+Creating package registration file: /tmp/pkgConf-stm-2.41911759956749241873.4
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/stm-2.4.4-0f2mEEroYos9RFjr5PSom0
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/stm-2.4.4-C1kFMnPqFjvDhFjgMZGUpr
 Registering stm-2.4.4...

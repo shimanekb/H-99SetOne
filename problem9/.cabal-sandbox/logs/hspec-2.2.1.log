@@ -10,7 +10,7 @@ Preprocessing library hspec-2.2.1...
 [7 of 7] Compiling Test.Hspec.QuickCheck ( src/Test/Hspec/QuickCheck.hs, dist/dist-sandbox-abf71337/build/Test/Hspec/QuickCheck.o )
 In-place registering hspec-2.2.1...
 Creating package registration file:
-/tmp/pkgConf-hspec-2.21194953865894429689.1
+/tmp/pkgConf-hspec-2.23170974671892066601.1
 Installing library in
-/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/hspec-2.2.1-7L0KREAgsSxKT93ueZ35TI
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem9/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/hspec-2.2.1-87ymL0Gc2qpFzfK94wjr9G
 Registering hspec-2.2.1...

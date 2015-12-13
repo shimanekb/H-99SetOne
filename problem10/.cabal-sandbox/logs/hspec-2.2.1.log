@@ -1,0 +1,16 @@
+Configuring hspec-2.2.1...
+Building hspec-2.2.1...
+Preprocessing library hspec-2.2.1...
+[1 of 7] Compiling Test.Hspec.HUnit ( src/Test/Hspec/HUnit.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/HUnit.o )
+[2 of 7] Compiling Test.Hspec.Formatters ( src/Test/Hspec/Formatters.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/Formatters.o )
+[3 of 7] Compiling Test.Hspec.Discover ( src/Test/Hspec/Discover.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/Discover.o )
+[4 of 7] Compiling Test.Hspec.Runner ( src/Test/Hspec/Runner.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/Runner.o )
+[5 of 7] Compiling Test.Hspec.Core  ( src/Test/Hspec/Core.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/Core.o )
+[6 of 7] Compiling Test.Hspec       ( src/Test/Hspec.hs, dist/dist-sandbox-82941c20/build/Test/Hspec.o )
+[7 of 7] Compiling Test.Hspec.QuickCheck ( src/Test/Hspec/QuickCheck.hs, dist/dist-sandbox-82941c20/build/Test/Hspec/QuickCheck.o )
+In-place registering hspec-2.2.1...
+Creating package registration file:
+/tmp/pkgConf-hspec-2.27523927541474612399.1
+Installing library in
+/home/shimanek/Haskell_Workspace/H-99SetOne/problem10/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.2/hspec-2.2.1-87ymL0Gc2qpFzfK94wjr9G
+Registering hspec-2.2.1...

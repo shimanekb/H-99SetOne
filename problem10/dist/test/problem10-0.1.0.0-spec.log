@@ -1,0 +1,10 @@
+Test suite spec: RUNNING...
+
+H99.Problem10
+  Problem 10 Module
+    Should encode repeating items
+
+Finished in 0.0001 seconds
+1 example, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/problem10-0.1.0.0-spec.log
